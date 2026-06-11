@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# API KEYS AND SECRETS (Strictly Ignored)
+# ==========================================
+*.key
+*.pem
+*secret*
+*credentials*
+api_keys.json
+flowise_variables.json
